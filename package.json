@@ -1,0 +1,15 @@
+{
+  "name": "bookbarter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/chrisaguilar/BookBarter.git",
+  "contributors": [
+    "Christopher Aguilar <christopher.m.aguilar@gmail.com> (https://chrisaguilar.herokuapp.com/)"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@chrisaguilar/tslint-config": "^0.1.4",
+    "tslint": "^5.0.0",
+    "typescript": "^2.2.2"
+  }
+}

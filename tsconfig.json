@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "baseUrl": ".",
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react",
+    "listEmittedFiles": true,
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "outDir": "dist/",
+    "paths": {
+      "~*": [
+        "src/*"
+      ]
+    },
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "target": "es2015"
+  }
+}
