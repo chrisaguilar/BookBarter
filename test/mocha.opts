@@ -1,0 +1,6 @@
+--compilers ts:ts-node/register,tsx:ts-node/register
+--colors
+--growl
+--recursive
+--require tsconfig-paths/register
+--sort
