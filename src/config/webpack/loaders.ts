@@ -66,10 +66,12 @@ export const tslint = {
     {
       loader: 'tslint-loader',
       options: {
-        emitErrors: true,
+        emitErrors: false,
         extends: res('tslint.json'),
-        failOnHint: true,
-        formatter: 'stylish'
+        failOnHint: false,
+        fix: false,
+        formatter: 'stylish',
+        typeCheck: true
       }
     }
   ]
